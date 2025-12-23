@@ -1,0 +1,25 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1766438892
+icon.svg::CompressedTexture2D::3273086273720652::1766064883::1766064902::1::::<><><>0<>0<>be2262e68a04117ba90bdec2ca9a05c8<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1766066201
+::res://assets/sprites/::1766066697
+::res://assets/sprites/1 Woodcutter/::1766066703
+Woodcutter.png::CompressedTexture2D::1169944354148666999::1766066670::1766066703::1::::<><><>0<>0<>14e6887a1cb752fae99e5dcc6a0f2f8d<>res://.godot/imported/Woodcutter.png-c802480a346676d9ab9a609fbed84650.ctex::
+Woodcutter_attack1.png::CompressedTexture2D::1065465696190182651::1766066670::1766066703::1::::<><><>0<>0<>ab13b70e4f38e55d2f05a058c8791848<>res://.godot/imported/Woodcutter_attack1.png-e70c123f0ba453389bee3100cfe6a147.ctex::
+Woodcutter_attack2.png::CompressedTexture2D::8155678987417755564::1766066670::1766066703::1::::<><><>0<>0<>ab439803a51f9e9ba31680b908d1e234<>res://.godot/imported/Woodcutter_attack2.png-a1c1262159240831c8f5dcc667f83a28.ctex::
+Woodcutter_attack3.png::CompressedTexture2D::1832184661935209532::1766066670::1766066703::1::::<><><>0<>0<>b0bac3897305f1614c169fddfb83e5c9<>res://.godot/imported/Woodcutter_attack3.png-db2067e8f0e51429e4606b0db03eedd6.ctex::
+Woodcutter_climb.png::CompressedTexture2D::7629578518263468971::1766066670::1766066703::1::::<><><>0<>0<>b9f34e1e876b922946904dd1ec66adab<>res://.godot/imported/Woodcutter_climb.png-04ae2cf45bde8c913738ced0ea549218.ctex::
+Woodcutter_craft.png::CompressedTexture2D::8870098224267323947::1766066670::1766066703::1::::<><><>0<>0<>b7818ac20c1f3c7ef0b9971f5319af77<>res://.godot/imported/Woodcutter_craft.png-c0d229fcaa12d2546b6a77c1bd702476.ctex::
+Woodcutter_death.png::CompressedTexture2D::1997726369781054114::1766066670::1766066703::1::::<><><>0<>0<>ad6c4fd786351d4197b8f8dc3e43eb8f<>res://.godot/imported/Woodcutter_death.png-629336c5c4a6490961879fa5f3ad4928.ctex::
+Woodcutter_hurt.png::CompressedTexture2D::7762030993098379169::1766066670::1766066703::1::::<><><>0<>0<>111fabf83e8a22b355aa89aa98d4ff56<>res://.godot/imported/Woodcutter_hurt.png-3a95d717c2029415ece281df7e0307fc.ctex::
+Woodcutter_idle.png::CompressedTexture2D::1577139272668039663::1766066670::1766066703::1::::<><><>0<>0<>e040d77daaaf7af1bc4abcbfca88bc1c<>res://.godot/imported/Woodcutter_idle.png-1691ed032c55d259575a2b37cbb1f6ac.ctex::
+Woodcutter_jump.png::CompressedTexture2D::6274711164664403663::1766066670::1766066703::1::::<><><>0<>0<>bc3398ae32af09a5845b36180f47f1f4<>res://.godot/imported/Woodcutter_jump.png-03b742350715cb4cf187cf3e90b3ce2a.ctex::
+Woodcutter_push.png::CompressedTexture2D::6080060869500332241::1766066670::1766066703::1::::<><><>0<>0<>70234ad83ff4aee63f4f8af62d694661<>res://.godot/imported/Woodcutter_push.png-6bd6ae7881f37f39ba48f12262cf5eb6.ctex::
+Woodcutter_run.png::CompressedTexture2D::5159577143147736290::1766066670::1766066703::1::::<><><>0<>0<>453c2b6f3395786dbcae027d43d1bf84<>res://.godot/imported/Woodcutter_run.png-655a90d328b7ed31b034a099ceeaad70.ctex::
+Woodcutter_walk.png::CompressedTexture2D::5530498582296177416::1766066670::1766066703::1::::<><><>0<>0<>4120b50c6a5f3c878e68d618758ef3b8<>res://.godot/imported/Woodcutter_walk.png-f73780ea7976aedc78a321e5d00353aa.ctex::
+::res://scenes/::1766438382
+game.tscn::PackedScene::3589778730440107984::1766438150::0::1::::<><><>0<>0<><>::uid://v3h54c6oewoo::::res://scenes/player.tscn
+Personaggio2.tscn::PackedScene::3868879560415419718::1766438382::0::1::::<><><>0<>0<><>::uid://wp8iu6s0sefv::::res://assets/sprites/1 Woodcutter/Woodcutter_idle.png<>uid://pgecgng55tr4::::res://assets/sprites/1 Woodcutter/Woodcutter_attack1.png
+player.tscn::PackedScene::1532248413973018914::1766348265::0::1::::<><><>0<>0<><>::uid://wp8iu6s0sefv::::res://assets/sprites/1 Woodcutter/Woodcutter_idle.png<>uid://dtuspn5micbrc::::res://scripts/Player.cs
+::res://scripts/::1766343201
+Player.cs::CSharpScript::8535258057765164248::1766436557::0::1::::<>CharacterBody2D<><>0<>0<><>::

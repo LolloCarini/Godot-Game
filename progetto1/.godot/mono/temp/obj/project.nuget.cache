@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ka94/62vc2qDcCl+EkpWKobczCwnLUkfUPFCRqdUi77jAdsbLmBHBVw/mbDvQYjPWTcUY4OL2TncDN+s2DTY2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loren\\OneDrive\\Documenti\\Sviluppo Csharp\\Progetto1\\progetto1\\Progetto1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loren\\.nuget\\packages\\godot.sourcegenerators\\4.5.1\\godot.sourcegenerators.4.5.1.nupkg.sha512",
+    "C:\\Users\\loren\\.nuget\\packages\\godotsharp\\4.5.1\\godotsharp.4.5.1.nupkg.sha512",
+    "C:\\Users\\loren\\.nuget\\packages\\godotsharpeditor\\4.5.1\\godotsharpeditor.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

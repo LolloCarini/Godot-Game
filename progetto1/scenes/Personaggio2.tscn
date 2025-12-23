@@ -1,0 +1,68 @@
+[gd_scene load_steps=10 format=3 uid="uid://bved47tetgbqc"]
+
+[ext_resource type="Texture2D" uid="uid://wp8iu6s0sefv" path="res://assets/sprites/1 Woodcutter/Woodcutter_idle.png" id="1_wvtex"]
+[ext_resource type="Texture2D" uid="uid://pgecgng55tr4" path="res://assets/sprites/1 Woodcutter/Woodcutter_attack1.png" id="2_g0pvt"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_i8477"]
+atlas = ExtResource("2_g0pvt")
+region = Rect2(0, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xff2q"]
+atlas = ExtResource("2_g0pvt")
+region = Rect2(48, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3sreq"]
+atlas = ExtResource("2_g0pvt")
+region = Rect2(96, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ds6el"]
+atlas = ExtResource("2_g0pvt")
+region = Rect2(144, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_r7s0o"]
+atlas = ExtResource("2_g0pvt")
+region = Rect2(192, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_v52ym"]
+atlas = ExtResource("2_g0pvt")
+region = Rect2(240, 0, 48, 48)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_11ien"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_wvtex")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_i8477")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xff2q")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_3sreq")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ds6el")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_r7s0o")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_v52ym")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"new_animation",
+"speed": 5.0
+}]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_11ien")
+frame_progress = 0.9460323
